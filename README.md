@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpikzink
-- 👀 I’m interested in PHP and mysql
-- 🌱 I’m currently learning Laravel 
+- 👀 I’m interested in Laravel - so PHP and mysql
+- 🌱 I’m currently learning Ansible 
 - 💞️ I’m looking to collaborate on OSS in general.
 - 📫 you can contact me here in GitHub
 
